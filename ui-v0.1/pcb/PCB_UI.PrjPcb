@@ -193,6 +193,159 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUMABBIN
 
+[Document10]
+DocumentPath=JLC Fabrication.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_UI\BOM\Bill of Materials-PCB_UI.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\NC Drill\layout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\NC Drill\layout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\layout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\NC Drill\layout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PCB_UI\Pick Place\Pick Place for layout.csv
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
