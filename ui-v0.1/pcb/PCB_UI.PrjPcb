@@ -177,23 +177,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=layout.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CUMABBIN
-
-[Document10]
 DocumentPath=JLC Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,76 +193,165 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=ui_layout-v0.1.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNXDXQAS
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PCB_UI\BOM\Bill of Materials-PCB_UI.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.DRR
+DocumentPath=Project Outputs for PCB_UI\Design Rule Check - ui_layout-v0.1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.EXTREP
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBL
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBO
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBS
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GKO
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM1
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM13
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM15
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTL
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTO
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTS
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.LDP
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.REP
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_UI\Gerber\layout.RUL
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.TXT
+DocumentPath=Project Outputs for PCB_UI\Gerber\layout.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\layout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
 DocumentPath=Project Outputs for PCB_UI\Pick Place\Pick Place for layout.csv
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PCB_UI\Pick Place\Pick Place for ui_layout-v0.1.1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\ui_layout-v0.1.1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\ui_layout-v0.1.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for PCB_UI\Gerber\ui_layout-v0.1.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for PCB_UI\NC Drill\ui_layout-v0.1.1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
