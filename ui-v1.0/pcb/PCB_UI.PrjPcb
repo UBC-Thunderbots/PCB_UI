@@ -431,7 +431,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RANTRBNR
 
 [Document24]
-DocumentPath=ui_layout-v0.1.1.PcbDoc
+DocumentPath=ui_layout-v1.0.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
