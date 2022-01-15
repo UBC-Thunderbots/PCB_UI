@@ -40,23 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=encoder-filter-diagram.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MEQVQSVL
-
-[Document2]
 DocumentPath=ui_layout-v1.0.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +56,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VNXDXQAS
 
-[Document3]
+[Document2]
 DocumentPath=ui-pcb.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,41 +73,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYQQJZYC
 
+[Document3]
+DocumentPath=encoder-filter-diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MEQVQSVL
+
 [Document4]
-DocumentPath=encoder-filter.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FOCLYFCW
-
-[Document5]
-DocumentPath=encoder-filter.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\capacitor_library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document5]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Connector_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Diode_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Fuse_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\IC_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Inductor_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Oscillator_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document11]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Switch_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Transistor_Library.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=rotary-encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIZJHUPY
 
-[Document17]
+[Document15]
 DocumentPath=1.8inch-tft-display.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -328,7 +294,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RANTRBNR
 
-[Document18]
+[Document16]
 DocumentPath=motor-driver-v5.0-connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,6 +310,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZCCWHJHA
+
+[Document17]
+DocumentPath=power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKJSAWWZ
+
+[Document18]
+DocumentPath=power.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=jetson-nano.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DDWGZHZC
+
+[Document20]
+DocumentPath=jetson-nano.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1276,6 +1310,9 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=NetC?_2|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
