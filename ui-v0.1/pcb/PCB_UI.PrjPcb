@@ -125,7 +125,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FVSCBULF
 
 [Document6]
-DocumentPath=low-pass-filter.SchDoc
+DocumentPath=jetson-nano.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,10 +139,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CWMFSIJL
+DocumentUniqueId=
 
 [Document7]
-DocumentPath=jetson-nano.Harness
+DocumentPath=power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
