@@ -40,7 +40,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ui_layout-v1.0.1.PcbDoc
+DocumentPath=ui_layout-v1.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -54,7 +54,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VNXDXQAS
+DocumentUniqueId=OHHPAIWK
 
 [Document2]
 DocumentPath=ui-pcb.SchDoc
@@ -395,6 +395,36 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=922955D9-19E8-4058-B402-983E4A32D11E
+Description=C01
+AllowFabrication=0
+ParameterCount=0
+VariationCount=14
+Variation1=Designator=C6_1|UniqueId=\DVSECXFL\TLTTEMTW\RXUFNFBM|Kind=1|AlternatePart= 
+Variation2=Designator=C6_14|UniqueId=\VVWSPHUY\JAIGLVYH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation3=Designator=C6_10|UniqueId=\DVSECXFL\SKGLFWWQ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation4=Designator=C6_6|UniqueId=\DVSECXFL\NJAXRWOZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation5=Designator=C6_4|UniqueId=\DVSECXFL\AJJKEBIH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation6=Designator=C6_5|UniqueId=\DVSECXFL\QQALSJEV\RXUFNFBM|Kind=1|AlternatePart= 
+Variation7=Designator=C6_3|UniqueId=\DVSECXFL\AVCVNGJT\RXUFNFBM|Kind=1|AlternatePart= 
+Variation8=Designator=C6_8|UniqueId=\DVSECXFL\EOYRZCQY\RXUFNFBM|Kind=1|AlternatePart= 
+Variation9=Designator=C6_9|UniqueId=\DVSECXFL\FSOMVEPC\RXUFNFBM|Kind=1|AlternatePart= 
+Variation10=Designator=C6_12|UniqueId=\VVWSPHUY\AKVZDGKV\RXUFNFBM|Kind=1|AlternatePart= 
+Variation11=Designator=C6_7|UniqueId=\DVSECXFL\AXNQNQEZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation12=Designator=C6_13|UniqueId=\VVWSPHUY\NZAEXUUA\RXUFNFBM|Kind=1|AlternatePart= 
+Variation13=Designator=C6_2|UniqueId=\DVSECXFL\DWXAARRH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation14=Designator=C6_11|UniqueId=\DVSECXFL\XPWLHPST\RXUFNFBM|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_UI\Design Rule Check - copy-of-ui_layout-v1.0.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_UI\Design Rule Check - ui_layout-v1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -981,7 +1011,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
