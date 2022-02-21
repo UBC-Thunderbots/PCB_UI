@@ -227,13 +227,13 @@ GenerateClassCluster=0
 DocumentUniqueId=OHHPAIWK
 
 [Document12]
-DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\jetson-nano.SchDoc
+DocumentPath=jetson-nano.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=8
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -415,6 +415,23 @@ DocumentUniqueId=
 
 [Document23]
 DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\jetson-nano.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=jetson-nano.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
