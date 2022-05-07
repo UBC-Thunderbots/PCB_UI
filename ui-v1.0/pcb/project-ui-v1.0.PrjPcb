@@ -340,6 +340,10 @@ Variation13=Designator=C6_2|UniqueId=\DVSECXFL\DWXAARRH\RXUFNFBM|Kind=1|Alternat
 Variation14=Designator=C6_11|UniqueId=\DVSECXFL\XPWLHPST\RXUFNFBM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for project-ui-v1.0\Design Rule Check - ui_layout-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
