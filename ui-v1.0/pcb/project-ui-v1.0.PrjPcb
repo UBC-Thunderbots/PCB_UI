@@ -25,12 +25,14 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -340,10 +342,6 @@ Variation13=Designator=C6_2|UniqueId=\DVSECXFL\DWXAARRH\RXUFNFBM|Kind=1|Alternat
 Variation14=Designator=C6_11|UniqueId=\DVSECXFL\XPWLHPST\RXUFNFBM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for project-ui-v1.0\Design Rule Check - ui_layout-v1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -465,7 +463,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote (Desktop)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1224,6 +1222,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1295,21 +1294,21 @@ ComponentSymbolReference3=CAP_Default
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Connector_Library.DbLib/Connectors
-ComponentDesignItemID4=CN 5POS JST ZE SMT
-ComponentSymbolReference4=CN 5POS JST ZE SMT
+ComponentLibraryIdentifier4=CONN HEADER VERT 10POS.SchLib
+ComponentDesignItemID4=1-87220-0
+ComponentSymbolReference4=1-87220-0
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Connector_Library.DbLib/Connectors
-ComponentDesignItemID5=CN HDR 40POS
-ComponentSymbolReference5=CN HDR 40POS
+ComponentDesignItemID5=CN 5POS JST ZE SMT
+ComponentSymbolReference5=CN 5POS JST ZE SMT
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Connector_Library.DbLib/Connectors
-ComponentDesignItemID6=CONN HEADER VERT 10POS
-ComponentSymbolReference6=1-87220-0
+ComponentDesignItemID6=CN HDR 40POS
+ComponentSymbolReference6=CN HDR 40POS
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
@@ -1325,11 +1324,17 @@ ComponentSymbolReference8=RES_DEFAULT
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Switch_Library.DbLib/Switches
-ComponentDesignItemID9=PEC12R4220FS0024
-ComponentSymbolReference9=PEC12R-4220F-S0024
+ComponentLibraryIdentifier9=Resistor_Library.DbLib/Resistors
+ComponentDesignItemID9=RES 2k 1/8W
+ComponentSymbolReference9=RES_DEFAULT
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Switch_Library.DbLib/Switches
+ComponentDesignItemID10=PEC12R4220FS0024
+ComponentSymbolReference10=PEC12R-4220F-S0024
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
