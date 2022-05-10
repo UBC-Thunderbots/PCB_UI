@@ -1,9 +1,9 @@
 ﻿[Design]
 Version=1.0
 HierarchyMode=0
-ChannelRoomNamingStyle=0
+ChannelRoomNamingStyle=1
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$ChannelIndex
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -1309,7 +1309,7 @@ GlobalIndexSortLocation=0
 [PrjClassGen]
 CompClassManualEnabled=0
 CompClassManualRoomEnabled=0
-NetClassAutoBusEnabled=1
+NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
