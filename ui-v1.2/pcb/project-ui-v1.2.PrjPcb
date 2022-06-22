@@ -1,0 +1,2120 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=1
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component$ChannelAlpha
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=1
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=No FL
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\Transistor_Library.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
+DocumentPath=..\..\..\Altium_Libraries\libraries-v2.0\capacitor_library.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=jetson-nano.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EYKVWZDD
+
+[Document4]
+DocumentPath=ui-pcb.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JYQQJZYC
+
+[Document5]
+DocumentPath=power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MKJSAWWZ
+
+[Document6]
+DocumentPath=motor-driver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZCCWHJHA
+
+[Document7]
+DocumentPath=lowpass-filters.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DDWGZHZC
+
+[Document8]
+DocumentPath=low-pass-filter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IUIXPLMV
+
+[Document9]
+DocumentPath=power.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=jlc-fabrication.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=motor-driver.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=project-ui-v1.1.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=interface-switches.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EZIUVUAZ
+
+[Document14]
+DocumentPath=display.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RANTRBNR
+
+[Document15]
+DocumentPath=display.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=jetson-nano.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=lowpass-filters.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=ui_layout-v1.2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHHPAIWK
+
+[Document19]
+DocumentPath=interface-switches.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=922955D9-19E8-4058-B402-983E4A32D11E
+Description=No FL
+AllowFabrication=0
+ParameterCount=0
+VariationCount=30
+Variation1=Designator=C6_14A|UniqueId=\QOSFQMYH\AJJKEBIH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation2=Designator=C6_14B|UniqueId=\QOSFQMYH\QQALSJEV\RXUFNFBM|Kind=1|AlternatePart= 
+Variation3=Designator=C6_14C|UniqueId=\QOSFQMYH\NJAXRWOZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation4=Designator=C6_14D|UniqueId=\QOSFQMYH\AXNQNQEZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation5=Designator=C6_14E|UniqueId=\QOSFQMYH\EOYRZCQY\RXUFNFBM|Kind=1|AlternatePart= 
+Variation6=Designator=C6_14F|UniqueId=\QOSFQMYH\XPWLHPST\RXUFNFBM|Kind=1|AlternatePart= 
+Variation7=Designator=C6_14G|UniqueId=\QOSFQMYH\AVCVNGJT\RXUFNFBM|Kind=1|AlternatePart= 
+Variation8=Designator=C6_14H|UniqueId=\QOSFQMYH\DWXAARRH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation9=Designator=C6_14I|UniqueId=\QOSFQMYH\LQTYFEBQ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation10=Designator=C6_14J|UniqueId=\QOSFQMYH\FSOMVEPC\RXUFNFBM|Kind=1|AlternatePart= 
+Variation11=Designator=C6_14K|UniqueId=\QOSFQMYH\SKGLFWWQ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation12=Designator=C6_14L|UniqueId=\QOSFQMYH\TLTTEMTW\RXUFNFBM|Kind=1|AlternatePart= 
+Variation13=Designator=C6_14M|UniqueId=\QOSFQMYH\GAZUHKRG\RXUFNFBM|Kind=1|AlternatePart= 
+Variation14=Designator=C6_14N|UniqueId=\QOSFQMYH\HIZDJUHW\RXUFNFBM|Kind=1|AlternatePart= 
+Variation15=Designator=C6_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation16=Designator=R4_14G|UniqueId=\QOSFQMYH\AVCVNGJT\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator1=R4_14G
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R4_14G
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator3=R4_14G
+ParamVariation4=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator4=R4_14G
+ParamVariation5=ParameterName=Footprint|VariantValue=0603
+ParamDesignator5=R4_14G
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator6=R4_14G
+ParamVariation7=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator7=R4_14G
+ParamVariation8=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator8=R4_14G
+ParamVariation9=ParameterName=Package|VariantValue=0805
+ParamDesignator9=R4_14G
+ParamVariation10=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator10=R4_14G
+ParamVariation11=ParameterName=PCB3D|VariantValue= 
+ParamDesignator11=R4_14G
+ParamVariation12=ParameterName=Pin Info|VariantValue= 
+ParamDesignator12=R4_14G
+ParamVariation13=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator13=R4_14G
+ParamVariation14=ParameterName=Simulation|VariantValue= 
+ParamDesignator14=R4_14G
+ParamVariation15=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator15=R4_14G
+ParamVariation16=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator16=R4_14G
+ParamVariation17=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator17=R4_14G
+ParamVariation18=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator18=R4_14G
+ParamVariation19=ParameterName=Value|VariantValue=0
+ParamDesignator19=R4_14G
+Variation17=Designator=R4_14F|UniqueId=\QOSFQMYH\XPWLHPST\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation20=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator20=R4_14F
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=R4_14F
+ParamVariation22=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator22=R4_14F
+ParamVariation23=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator23=R4_14F
+ParamVariation24=ParameterName=Footprint|VariantValue=0603
+ParamDesignator24=R4_14F
+ParamVariation25=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator25=R4_14F
+ParamVariation26=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator26=R4_14F
+ParamVariation27=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator27=R4_14F
+ParamVariation28=ParameterName=Package|VariantValue=0805
+ParamDesignator28=R4_14F
+ParamVariation29=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator29=R4_14F
+ParamVariation30=ParameterName=PCB3D|VariantValue= 
+ParamDesignator30=R4_14F
+ParamVariation31=ParameterName=Pin Info|VariantValue= 
+ParamDesignator31=R4_14F
+ParamVariation32=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator32=R4_14F
+ParamVariation33=ParameterName=Simulation|VariantValue= 
+ParamDesignator33=R4_14F
+ParamVariation34=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator34=R4_14F
+ParamVariation35=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator35=R4_14F
+ParamVariation36=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator36=R4_14F
+ParamVariation37=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator37=R4_14F
+ParamVariation38=ParameterName=Value|VariantValue=0
+ParamDesignator38=R4_14F
+Variation18=Designator=R4_14E|UniqueId=\QOSFQMYH\EOYRZCQY\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation39=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator39=R4_14E
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=R4_14E
+ParamVariation41=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator41=R4_14E
+ParamVariation42=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator42=R4_14E
+ParamVariation43=ParameterName=Footprint|VariantValue=0603
+ParamDesignator43=R4_14E
+ParamVariation44=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator44=R4_14E
+ParamVariation45=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator45=R4_14E
+ParamVariation46=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator46=R4_14E
+ParamVariation47=ParameterName=Package|VariantValue=0805
+ParamDesignator47=R4_14E
+ParamVariation48=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator48=R4_14E
+ParamVariation49=ParameterName=PCB3D|VariantValue= 
+ParamDesignator49=R4_14E
+ParamVariation50=ParameterName=Pin Info|VariantValue= 
+ParamDesignator50=R4_14E
+ParamVariation51=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator51=R4_14E
+ParamVariation52=ParameterName=Simulation|VariantValue= 
+ParamDesignator52=R4_14E
+ParamVariation53=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator53=R4_14E
+ParamVariation54=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator54=R4_14E
+ParamVariation55=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator55=R4_14E
+ParamVariation56=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator56=R4_14E
+ParamVariation57=ParameterName=Value|VariantValue=0
+ParamDesignator57=R4_14E
+Variation19=Designator=R4_14D|UniqueId=\QOSFQMYH\AXNQNQEZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation58=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator58=R4_14D
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=R4_14D
+ParamVariation60=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator60=R4_14D
+ParamVariation61=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator61=R4_14D
+ParamVariation62=ParameterName=Footprint|VariantValue=0603
+ParamDesignator62=R4_14D
+ParamVariation63=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator63=R4_14D
+ParamVariation64=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator64=R4_14D
+ParamVariation65=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator65=R4_14D
+ParamVariation66=ParameterName=Package|VariantValue=0805
+ParamDesignator66=R4_14D
+ParamVariation67=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator67=R4_14D
+ParamVariation68=ParameterName=PCB3D|VariantValue= 
+ParamDesignator68=R4_14D
+ParamVariation69=ParameterName=Pin Info|VariantValue= 
+ParamDesignator69=R4_14D
+ParamVariation70=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator70=R4_14D
+ParamVariation71=ParameterName=Simulation|VariantValue= 
+ParamDesignator71=R4_14D
+ParamVariation72=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator72=R4_14D
+ParamVariation73=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator73=R4_14D
+ParamVariation74=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator74=R4_14D
+ParamVariation75=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator75=R4_14D
+ParamVariation76=ParameterName=Value|VariantValue=0
+ParamDesignator76=R4_14D
+Variation20=Designator=R4_14C|UniqueId=\QOSFQMYH\NJAXRWOZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation77=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator77=R4_14C
+ParamVariation78=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator78=R4_14C
+ParamVariation79=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator79=R4_14C
+ParamVariation80=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator80=R4_14C
+ParamVariation81=ParameterName=Footprint|VariantValue=0603
+ParamDesignator81=R4_14C
+ParamVariation82=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator82=R4_14C
+ParamVariation83=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator83=R4_14C
+ParamVariation84=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator84=R4_14C
+ParamVariation85=ParameterName=Package|VariantValue=0805
+ParamDesignator85=R4_14C
+ParamVariation86=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator86=R4_14C
+ParamVariation87=ParameterName=PCB3D|VariantValue= 
+ParamDesignator87=R4_14C
+ParamVariation88=ParameterName=Pin Info|VariantValue= 
+ParamDesignator88=R4_14C
+ParamVariation89=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator89=R4_14C
+ParamVariation90=ParameterName=Simulation|VariantValue= 
+ParamDesignator90=R4_14C
+ParamVariation91=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator91=R4_14C
+ParamVariation92=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator92=R4_14C
+ParamVariation93=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator93=R4_14C
+ParamVariation94=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator94=R4_14C
+ParamVariation95=ParameterName=Value|VariantValue=0
+ParamDesignator95=R4_14C
+Variation21=Designator=R4_14B|UniqueId=\QOSFQMYH\QQALSJEV\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation96=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator96=R4_14B
+ParamVariation97=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator97=R4_14B
+ParamVariation98=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator98=R4_14B
+ParamVariation99=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator99=R4_14B
+ParamVariation100=ParameterName=Footprint|VariantValue=0603
+ParamDesignator100=R4_14B
+ParamVariation101=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator101=R4_14B
+ParamVariation102=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator102=R4_14B
+ParamVariation103=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator103=R4_14B
+ParamVariation104=ParameterName=Package|VariantValue=0805
+ParamDesignator104=R4_14B
+ParamVariation105=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator105=R4_14B
+ParamVariation106=ParameterName=PCB3D|VariantValue= 
+ParamDesignator106=R4_14B
+ParamVariation107=ParameterName=Pin Info|VariantValue= 
+ParamDesignator107=R4_14B
+ParamVariation108=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator108=R4_14B
+ParamVariation109=ParameterName=Simulation|VariantValue= 
+ParamDesignator109=R4_14B
+ParamVariation110=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator110=R4_14B
+ParamVariation111=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator111=R4_14B
+ParamVariation112=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator112=R4_14B
+ParamVariation113=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator113=R4_14B
+ParamVariation114=ParameterName=Value|VariantValue=0
+ParamDesignator114=R4_14B
+Variation22=Designator=R4_14A|UniqueId=\QOSFQMYH\AJJKEBIH\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation115=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator115=R4_14A
+ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator116=R4_14A
+ParamVariation117=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator117=R4_14A
+ParamVariation118=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator118=R4_14A
+ParamVariation119=ParameterName=Footprint|VariantValue=0603
+ParamDesignator119=R4_14A
+ParamVariation120=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator120=R4_14A
+ParamVariation121=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator121=R4_14A
+ParamVariation122=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator122=R4_14A
+ParamVariation123=ParameterName=Package|VariantValue=0805
+ParamDesignator123=R4_14A
+ParamVariation124=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator124=R4_14A
+ParamVariation125=ParameterName=PCB3D|VariantValue= 
+ParamDesignator125=R4_14A
+ParamVariation126=ParameterName=Pin Info|VariantValue= 
+ParamDesignator126=R4_14A
+ParamVariation127=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator127=R4_14A
+ParamVariation128=ParameterName=Simulation|VariantValue= 
+ParamDesignator128=R4_14A
+ParamVariation129=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator129=R4_14A
+ParamVariation130=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator130=R4_14A
+ParamVariation131=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator131=R4_14A
+ParamVariation132=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator132=R4_14A
+ParamVariation133=ParameterName=Value|VariantValue=0
+ParamDesignator133=R4_14A
+Variation23=Designator=R4_14H|UniqueId=\QOSFQMYH\DWXAARRH\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation134=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator134=R4_14H
+ParamVariation135=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator135=R4_14H
+ParamVariation136=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator136=R4_14H
+ParamVariation137=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator137=R4_14H
+ParamVariation138=ParameterName=Footprint|VariantValue=0603
+ParamDesignator138=R4_14H
+ParamVariation139=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator139=R4_14H
+ParamVariation140=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator140=R4_14H
+ParamVariation141=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator141=R4_14H
+ParamVariation142=ParameterName=Package|VariantValue=0805
+ParamDesignator142=R4_14H
+ParamVariation143=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator143=R4_14H
+ParamVariation144=ParameterName=PCB3D|VariantValue= 
+ParamDesignator144=R4_14H
+ParamVariation145=ParameterName=Pin Info|VariantValue= 
+ParamDesignator145=R4_14H
+ParamVariation146=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator146=R4_14H
+ParamVariation147=ParameterName=Simulation|VariantValue= 
+ParamDesignator147=R4_14H
+ParamVariation148=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator148=R4_14H
+ParamVariation149=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator149=R4_14H
+ParamVariation150=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator150=R4_14H
+ParamVariation151=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator151=R4_14H
+ParamVariation152=ParameterName=Value|VariantValue=0
+ParamDesignator152=R4_14H
+Variation24=Designator=R4_14I|UniqueId=\QOSFQMYH\LQTYFEBQ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation153=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator153=R4_14I
+ParamVariation154=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator154=R4_14I
+ParamVariation155=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator155=R4_14I
+ParamVariation156=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator156=R4_14I
+ParamVariation157=ParameterName=Footprint|VariantValue=0603
+ParamDesignator157=R4_14I
+ParamVariation158=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator158=R4_14I
+ParamVariation159=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator159=R4_14I
+ParamVariation160=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator160=R4_14I
+ParamVariation161=ParameterName=Package|VariantValue=0805
+ParamDesignator161=R4_14I
+ParamVariation162=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator162=R4_14I
+ParamVariation163=ParameterName=PCB3D|VariantValue= 
+ParamDesignator163=R4_14I
+ParamVariation164=ParameterName=Pin Info|VariantValue= 
+ParamDesignator164=R4_14I
+ParamVariation165=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator165=R4_14I
+ParamVariation166=ParameterName=Simulation|VariantValue= 
+ParamDesignator166=R4_14I
+ParamVariation167=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator167=R4_14I
+ParamVariation168=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator168=R4_14I
+ParamVariation169=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator169=R4_14I
+ParamVariation170=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator170=R4_14I
+ParamVariation171=ParameterName=Value|VariantValue=0
+ParamDesignator171=R4_14I
+Variation25=Designator=R4_14J|UniqueId=\QOSFQMYH\FSOMVEPC\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation172=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator172=R4_14J
+ParamVariation173=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator173=R4_14J
+ParamVariation174=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator174=R4_14J
+ParamVariation175=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator175=R4_14J
+ParamVariation176=ParameterName=Footprint|VariantValue=0603
+ParamDesignator176=R4_14J
+ParamVariation177=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator177=R4_14J
+ParamVariation178=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator178=R4_14J
+ParamVariation179=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator179=R4_14J
+ParamVariation180=ParameterName=Package|VariantValue=0805
+ParamDesignator180=R4_14J
+ParamVariation181=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator181=R4_14J
+ParamVariation182=ParameterName=PCB3D|VariantValue= 
+ParamDesignator182=R4_14J
+ParamVariation183=ParameterName=Pin Info|VariantValue= 
+ParamDesignator183=R4_14J
+ParamVariation184=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator184=R4_14J
+ParamVariation185=ParameterName=Simulation|VariantValue= 
+ParamDesignator185=R4_14J
+ParamVariation186=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator186=R4_14J
+ParamVariation187=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator187=R4_14J
+ParamVariation188=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator188=R4_14J
+ParamVariation189=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator189=R4_14J
+ParamVariation190=ParameterName=Value|VariantValue=0
+ParamDesignator190=R4_14J
+Variation26=Designator=R4_14K|UniqueId=\QOSFQMYH\SKGLFWWQ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation191=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator191=R4_14K
+ParamVariation192=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator192=R4_14K
+ParamVariation193=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator193=R4_14K
+ParamVariation194=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator194=R4_14K
+ParamVariation195=ParameterName=Footprint|VariantValue=0603
+ParamDesignator195=R4_14K
+ParamVariation196=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator196=R4_14K
+ParamVariation197=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator197=R4_14K
+ParamVariation198=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator198=R4_14K
+ParamVariation199=ParameterName=Package|VariantValue=0805
+ParamDesignator199=R4_14K
+ParamVariation200=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator200=R4_14K
+ParamVariation201=ParameterName=PCB3D|VariantValue= 
+ParamDesignator201=R4_14K
+ParamVariation202=ParameterName=Pin Info|VariantValue= 
+ParamDesignator202=R4_14K
+ParamVariation203=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator203=R4_14K
+ParamVariation204=ParameterName=Simulation|VariantValue= 
+ParamDesignator204=R4_14K
+ParamVariation205=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator205=R4_14K
+ParamVariation206=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator206=R4_14K
+ParamVariation207=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator207=R4_14K
+ParamVariation208=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator208=R4_14K
+ParamVariation209=ParameterName=Value|VariantValue=0
+ParamDesignator209=R4_14K
+Variation27=Designator=R4_14L|UniqueId=\QOSFQMYH\TLTTEMTW\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation210=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator210=R4_14L
+ParamVariation211=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator211=R4_14L
+ParamVariation212=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator212=R4_14L
+ParamVariation213=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator213=R4_14L
+ParamVariation214=ParameterName=Footprint|VariantValue=0603
+ParamDesignator214=R4_14L
+ParamVariation215=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator215=R4_14L
+ParamVariation216=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator216=R4_14L
+ParamVariation217=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator217=R4_14L
+ParamVariation218=ParameterName=Package|VariantValue=0805
+ParamDesignator218=R4_14L
+ParamVariation219=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator219=R4_14L
+ParamVariation220=ParameterName=PCB3D|VariantValue= 
+ParamDesignator220=R4_14L
+ParamVariation221=ParameterName=Pin Info|VariantValue= 
+ParamDesignator221=R4_14L
+ParamVariation222=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator222=R4_14L
+ParamVariation223=ParameterName=Simulation|VariantValue= 
+ParamDesignator223=R4_14L
+ParamVariation224=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator224=R4_14L
+ParamVariation225=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator225=R4_14L
+ParamVariation226=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator226=R4_14L
+ParamVariation227=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator227=R4_14L
+ParamVariation228=ParameterName=Value|VariantValue=0
+ParamDesignator228=R4_14L
+Variation28=Designator=R4_14M|UniqueId=\QOSFQMYH\GAZUHKRG\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation229=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator229=R4_14M
+ParamVariation230=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator230=R4_14M
+ParamVariation231=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator231=R4_14M
+ParamVariation232=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator232=R4_14M
+ParamVariation233=ParameterName=Footprint|VariantValue=0603
+ParamDesignator233=R4_14M
+ParamVariation234=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator234=R4_14M
+ParamVariation235=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator235=R4_14M
+ParamVariation236=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator236=R4_14M
+ParamVariation237=ParameterName=Package|VariantValue=0805
+ParamDesignator237=R4_14M
+ParamVariation238=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator238=R4_14M
+ParamVariation239=ParameterName=PCB3D|VariantValue= 
+ParamDesignator239=R4_14M
+ParamVariation240=ParameterName=Pin Info|VariantValue= 
+ParamDesignator240=R4_14M
+ParamVariation241=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator241=R4_14M
+ParamVariation242=ParameterName=Simulation|VariantValue= 
+ParamDesignator242=R4_14M
+ParamVariation243=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator243=R4_14M
+ParamVariation244=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator244=R4_14M
+ParamVariation245=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator245=R4_14M
+ParamVariation246=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator246=R4_14M
+ParamVariation247=ParameterName=Value|VariantValue=0
+ParamDesignator247=R4_14M
+Variation29=Designator=R4_14N|UniqueId=\QOSFQMYH\HIZDJUHW\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation248=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator248=R4_14N
+ParamVariation249=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator249=R4_14N
+ParamVariation250=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator250=R4_14N
+ParamVariation251=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator251=R4_14N
+ParamVariation252=ParameterName=Footprint|VariantValue=0603
+ParamDesignator252=R4_14N
+ParamVariation253=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator253=R4_14N
+ParamVariation254=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator254=R4_14N
+ParamVariation255=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator255=R4_14N
+ParamVariation256=ParameterName=Package|VariantValue=0805
+ParamDesignator256=R4_14N
+ParamVariation257=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator257=R4_14N
+ParamVariation258=ParameterName=PCB3D|VariantValue= 
+ParamDesignator258=R4_14N
+ParamVariation259=ParameterName=Pin Info|VariantValue= 
+ParamDesignator259=R4_14N
+ParamVariation260=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator260=R4_14N
+ParamVariation261=ParameterName=Simulation|VariantValue= 
+ParamDesignator261=R4_14N
+ParamVariation262=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator262=R4_14N
+ParamVariation263=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator263=R4_14N
+ParamVariation264=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator264=R4_14N
+ParamVariation265=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator265=R4_14N
+ParamVariation266=ParameterName=Value|VariantValue=0
+ParamDesignator266=R4_14N
+Variation30=Designator=R4_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation267=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator267=R4_14O
+ParamVariation268=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator268=R4_14O
+ParamVariation269=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator269=R4_14O
+ParamVariation270=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator270=R4_14O
+ParamVariation271=ParameterName=Footprint|VariantValue=0603
+ParamDesignator271=R4_14O
+ParamVariation272=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator272=R4_14O
+ParamVariation273=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator273=R4_14O
+ParamVariation274=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator274=R4_14O
+ParamVariation275=ParameterName=Package|VariantValue=0805
+ParamDesignator275=R4_14O
+ParamVariation276=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator276=R4_14O
+ParamVariation277=ParameterName=PCB3D|VariantValue= 
+ParamDesignator277=R4_14O
+ParamVariation278=ParameterName=Pin Info|VariantValue= 
+ParamDesignator278=R4_14O
+ParamVariation279=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator279=R4_14O
+ParamVariation280=ParameterName=Simulation|VariantValue= 
+ParamDesignator280=R4_14O
+ParamVariation281=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator281=R4_14O
+ParamVariation282=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator282=R4_14O
+ParamVariation283=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator283=R4_14O
+ParamVariation284=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator284=R4_14O
+ParamVariation285=ParameterName=Value|VariantValue=0
+ParamDesignator285=R4_14O
+ParamVariationCount=285
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+Configuration18_Name1=ForceUpdateSettings
+Configuration18_Item1=False
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=0
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=0
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=AltiumLibraries.IntLib
+ComponentDesignItemID0=CN 15POS JST ZE SMT
+ComponentSymbolReference0=CN 15POS JST ZE SMT
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=capacitor_library.DbLib/capacitors
+ComponentDesignItemID1=CAP 0.010uF 16V
+ComponentSymbolReference1=CAP_Default
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Capacitor_Library.DbLib/capacitors
+ComponentDesignItemID2=CAP 0.1uF 25V
+ComponentSymbolReference2=CAP_Default
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=capacitor_library.DbLib/capacitors
+ComponentDesignItemID3=CAP 330pF 16V
+ComponentSymbolReference3=CAP_Default
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=CONN HEADER VERT 10POS.SchLib
+ComponentDesignItemID4=1-87220-0
+ComponentSymbolReference4=1-87220-0
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Connector_Library.DbLib/Connectors
+ComponentDesignItemID5=CN 5POS JST ZE SMT
+ComponentSymbolReference5=CN 5POS JST ZE SMT
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Connector_Library.DbLib/Connectors
+ComponentDesignItemID6=CN HDR 40POS
+ComponentSymbolReference6=CN HDR 40POS
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Resistor_Library.DbLib/Resistors
+ComponentDesignItemID7=RES 100.0 1/8W
+ComponentSymbolReference7=RES_DEFAULT
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Resistor_Library.DbLib/Resistors
+ComponentDesignItemID8=RES 10k 1/8W - 1%
+ComponentSymbolReference8=RES_DEFAULT
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Resistor_Library.DbLib/Resistors
+ComponentDesignItemID9=RES 2k 1/8W
+ComponentSymbolReference9=RES_DEFAULT
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Switch_Library.DbLib/Switches
+ComponentDesignItemID10=PEC12R4220FS0024
+ComponentSymbolReference10=PEC12R-4220F-S0024
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Copyright
+ParameterUpdate4=1
+ParameterName5=Datasheet Link
+ParameterUpdate5=1
+ParameterName6=Description
+ParameterUpdate6=1
+ParameterName7=Height
+ParameterUpdate7=1
+ParameterName8=Library Reference
+ParameterUpdate8=1
+ParameterName9=Manufacturer Part Number
+ParameterUpdate9=1
+ParameterName10=Manufacturer_Name
+ParameterUpdate10=1
+ParameterName11=Manufacturer_Part_Number
+ParameterUpdate11=1
+ParameterName12=Mfr_Name
+ParameterUpdate12=1
+ParameterName13=Mouser Part Number
+ParameterUpdate13=1
+ParameterName14=Mouser Price/Stock
+ParameterUpdate14=1
+ParameterName15=Operating Temperature
+ParameterUpdate15=1
+ParameterName16=Package
+ParameterUpdate16=1
+ParameterName17=Part Number
+ParameterUpdate17=1
+ParameterName18=Pin Count
+ParameterUpdate18=1
+ParameterName19=Power (Watts)
+ParameterUpdate19=1
+ParameterName20=Rating
+ParameterUpdate20=1
+ParameterName21=RefDes
+ParameterUpdate21=1
+ParameterName22=Supplier 1
+ParameterUpdate22=1
+ParameterName23=Supplier Part Number 1
+ParameterUpdate23=1
+ParameterName24=Supplier URL 1
+ParameterUpdate24=1
+ParameterName25=Temperature Coefficient
+ParameterUpdate25=1
+ParameterName26=Tolerance
+ParameterUpdate26=1
+ParameterName27=Type
+ParameterUpdate27=1
+ParameterName28=Value
+ParameterUpdate28=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0603
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=0805
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=1-87224-0_TYC
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CN HDR 40POS 0.1 TH
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=JST ZE SMT 15POS
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=JST ZE SMT 5POS
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=PEC12R4220FS0024
+ModelUpdate6=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[NetInfos]
+Net1=NetName=NetC?_2|NetColor=clBlack
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
