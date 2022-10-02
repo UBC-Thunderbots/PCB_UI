@@ -530,6 +530,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document30]
+DocumentPath=project-ui-v1.1.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=922955D9-19E8-4058-B402-983E4A32D11E
 Description=No FL
@@ -549,7 +566,7 @@ Variation10=Designator=C6_14J|UniqueId=\QOSFQMYH\FSOMVEPC\RXUFNFBM|Kind=1|Altern
 Variation11=Designator=C6_14K|UniqueId=\QOSFQMYH\SKGLFWWQ\RXUFNFBM|Kind=1|AlternatePart= 
 Variation12=Designator=C6_14L|UniqueId=\QOSFQMYH\TLTTEMTW\RXUFNFBM|Kind=1|AlternatePart= 
 Variation13=Designator=C6_14M|UniqueId=\QOSFQMYH\GAZUHKRG\RXUFNFBM|Kind=1|AlternatePart= 
-Variation14=Designator=C6_14N|UniqueId=\QOSFQMYH\HIZDJUHW\RXUFNFBM|Kind=1|AlternatePart= 
+Variation14=Designator=C6_14N|UniqueId=\QOSFQMYH\BSWPJMJE\RXUFNFBM|Kind=1|AlternatePart= 
 Variation15=Designator=C6_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\RXUFNFBM|Kind=1|AlternatePart= 
 Variation16=Designator=R4_14G|UniqueId=\QOSFQMYH\AVCVNGJT\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
 ParamVariation1=ParameterName=Comment|VariantValue=JUMPER
@@ -1058,7 +1075,7 @@ ParamVariation246=ParameterName=Tolerance|VariantValue=N/A
 ParamDesignator246=R4_14M
 ParamVariation247=ParameterName=Value|VariantValue=0
 ParamDesignator247=R4_14M
-Variation29=Designator=R4_14N|UniqueId=\QOSFQMYH\HIZDJUHW\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+Variation29=Designator=R4_14N|UniqueId=\QOSFQMYH\BSWPJMJE\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Owner\Desktop\Thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
 ParamVariation248=ParameterName=Comment|VariantValue=JUMPER
 ParamDesignator248=R4_14N
 ParamVariation249=ParameterName=Component Kind|VariantValue=Standard
