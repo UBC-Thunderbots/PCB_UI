@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ui_layout-v1.1.PcbDoc
+DocumentPath=ui_layout-v1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,7 +253,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=project-ui-v1.1.Annotation
+DocumentPath=project-ui-v1.2.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1165,6 +1165,10 @@ ParamDesignator284=R4_14O
 ParamVariation285=ParameterName=Value|VariantValue=0
 ParamDesignator285=R4_14O
 ParamVariationCount=285
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for project-ui-v1.1\Design Rule Check - ui_layout-v1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
