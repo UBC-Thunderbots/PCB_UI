@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=No FL_PD_R
 
 [Preferences]
 PrefsVaultGUID=
@@ -123,7 +124,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1164,6 +1165,617 @@ ParamVariation284=ParameterName=Tolerance|VariantValue=N/A
 ParamDesignator284=R4_14O
 ParamVariation285=ParameterName=Value|VariantValue=0
 ParamDesignator285=R4_14O
+ParamVariationCount=285
+
+[ProjectVariant2]
+UniqueID=6F830FD0-48A4-4A82-A734-838A3E0904C7
+Description=No FL_PD_R
+AllowFabrication=0
+ParameterCount=0
+VariationCount=33
+Variation1=Designator=C6_14A|UniqueId=\QOSFQMYH\AJJKEBIH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation2=Designator=C6_14B|UniqueId=\QOSFQMYH\QQALSJEV\RXUFNFBM|Kind=1|AlternatePart= 
+Variation3=Designator=C6_14C|UniqueId=\QOSFQMYH\NJAXRWOZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation4=Designator=C6_14D|UniqueId=\QOSFQMYH\AXNQNQEZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation5=Designator=C6_14E|UniqueId=\QOSFQMYH\EOYRZCQY\RXUFNFBM|Kind=1|AlternatePart= 
+Variation6=Designator=C6_14F|UniqueId=\QOSFQMYH\XPWLHPST\RXUFNFBM|Kind=1|AlternatePart= 
+Variation7=Designator=C6_14G|UniqueId=\QOSFQMYH\AVCVNGJT\RXUFNFBM|Kind=1|AlternatePart= 
+Variation8=Designator=C6_14H|UniqueId=\QOSFQMYH\DWXAARRH\RXUFNFBM|Kind=1|AlternatePart= 
+Variation9=Designator=C6_14I|UniqueId=\QOSFQMYH\LQTYFEBQ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation10=Designator=C6_14J|UniqueId=\QOSFQMYH\FSOMVEPC\RXUFNFBM|Kind=1|AlternatePart= 
+Variation11=Designator=C6_14K|UniqueId=\QOSFQMYH\SKGLFWWQ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation12=Designator=C6_14L|UniqueId=\QOSFQMYH\TLTTEMTW\RXUFNFBM|Kind=1|AlternatePart= 
+Variation13=Designator=C6_14M|UniqueId=\QOSFQMYH\GAZUHKRG\RXUFNFBM|Kind=1|AlternatePart= 
+Variation14=Designator=C6_14N|UniqueId=\QOSFQMYH\BSWPJMJE\RXUFNFBM|Kind=1|AlternatePart= 
+Variation15=Designator=C6_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\RXUFNFBM|Kind=1|AlternatePart= 
+Variation16=Designator=R4_14G|UniqueId=\QOSFQMYH\AVCVNGJT\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator1=R4_14G
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=R4_14G
+ParamVariation3=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator3=R4_14G
+ParamVariation4=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator4=R4_14G
+ParamVariation5=ParameterName=Footprint|VariantValue=0603
+ParamDesignator5=R4_14G
+ParamVariation6=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator6=R4_14G
+ParamVariation7=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator7=R4_14G
+ParamVariation8=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator8=R4_14G
+ParamVariation9=ParameterName=Package|VariantValue=0805
+ParamDesignator9=R4_14G
+ParamVariation10=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator10=R4_14G
+ParamVariation11=ParameterName=PCB3D|VariantValue= 
+ParamDesignator11=R4_14G
+ParamVariation12=ParameterName=Pin Info|VariantValue= 
+ParamDesignator12=R4_14G
+ParamVariation13=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator13=R4_14G
+ParamVariation14=ParameterName=Simulation|VariantValue= 
+ParamDesignator14=R4_14G
+ParamVariation15=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator15=R4_14G
+ParamVariation16=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator16=R4_14G
+ParamVariation17=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator17=R4_14G
+ParamVariation18=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator18=R4_14G
+ParamVariation19=ParameterName=Value|VariantValue=0
+ParamDesignator19=R4_14G
+Variation17=Designator=R4_14F|UniqueId=\QOSFQMYH\XPWLHPST\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation20=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator20=R4_14F
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=R4_14F
+ParamVariation22=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator22=R4_14F
+ParamVariation23=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator23=R4_14F
+ParamVariation24=ParameterName=Footprint|VariantValue=0603
+ParamDesignator24=R4_14F
+ParamVariation25=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator25=R4_14F
+ParamVariation26=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator26=R4_14F
+ParamVariation27=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator27=R4_14F
+ParamVariation28=ParameterName=Package|VariantValue=0805
+ParamDesignator28=R4_14F
+ParamVariation29=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator29=R4_14F
+ParamVariation30=ParameterName=PCB3D|VariantValue= 
+ParamDesignator30=R4_14F
+ParamVariation31=ParameterName=Pin Info|VariantValue= 
+ParamDesignator31=R4_14F
+ParamVariation32=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator32=R4_14F
+ParamVariation33=ParameterName=Simulation|VariantValue= 
+ParamDesignator33=R4_14F
+ParamVariation34=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator34=R4_14F
+ParamVariation35=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator35=R4_14F
+ParamVariation36=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator36=R4_14F
+ParamVariation37=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator37=R4_14F
+ParamVariation38=ParameterName=Value|VariantValue=0
+ParamDesignator38=R4_14F
+Variation18=Designator=R4_14E|UniqueId=\QOSFQMYH\EOYRZCQY\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation39=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator39=R4_14E
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=R4_14E
+ParamVariation41=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator41=R4_14E
+ParamVariation42=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator42=R4_14E
+ParamVariation43=ParameterName=Footprint|VariantValue=0603
+ParamDesignator43=R4_14E
+ParamVariation44=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator44=R4_14E
+ParamVariation45=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator45=R4_14E
+ParamVariation46=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator46=R4_14E
+ParamVariation47=ParameterName=Package|VariantValue=0805
+ParamDesignator47=R4_14E
+ParamVariation48=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator48=R4_14E
+ParamVariation49=ParameterName=PCB3D|VariantValue= 
+ParamDesignator49=R4_14E
+ParamVariation50=ParameterName=Pin Info|VariantValue= 
+ParamDesignator50=R4_14E
+ParamVariation51=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator51=R4_14E
+ParamVariation52=ParameterName=Simulation|VariantValue= 
+ParamDesignator52=R4_14E
+ParamVariation53=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator53=R4_14E
+ParamVariation54=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator54=R4_14E
+ParamVariation55=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator55=R4_14E
+ParamVariation56=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator56=R4_14E
+ParamVariation57=ParameterName=Value|VariantValue=0
+ParamDesignator57=R4_14E
+Variation19=Designator=R4_14D|UniqueId=\QOSFQMYH\AXNQNQEZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation58=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator58=R4_14D
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=R4_14D
+ParamVariation60=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator60=R4_14D
+ParamVariation61=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator61=R4_14D
+ParamVariation62=ParameterName=Footprint|VariantValue=0603
+ParamDesignator62=R4_14D
+ParamVariation63=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator63=R4_14D
+ParamVariation64=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator64=R4_14D
+ParamVariation65=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator65=R4_14D
+ParamVariation66=ParameterName=Package|VariantValue=0805
+ParamDesignator66=R4_14D
+ParamVariation67=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator67=R4_14D
+ParamVariation68=ParameterName=PCB3D|VariantValue= 
+ParamDesignator68=R4_14D
+ParamVariation69=ParameterName=Pin Info|VariantValue= 
+ParamDesignator69=R4_14D
+ParamVariation70=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator70=R4_14D
+ParamVariation71=ParameterName=Simulation|VariantValue= 
+ParamDesignator71=R4_14D
+ParamVariation72=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator72=R4_14D
+ParamVariation73=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator73=R4_14D
+ParamVariation74=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator74=R4_14D
+ParamVariation75=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator75=R4_14D
+ParamVariation76=ParameterName=Value|VariantValue=0
+ParamDesignator76=R4_14D
+Variation20=Designator=R4_14C|UniqueId=\QOSFQMYH\NJAXRWOZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation77=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator77=R4_14C
+ParamVariation78=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator78=R4_14C
+ParamVariation79=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator79=R4_14C
+ParamVariation80=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator80=R4_14C
+ParamVariation81=ParameterName=Footprint|VariantValue=0603
+ParamDesignator81=R4_14C
+ParamVariation82=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator82=R4_14C
+ParamVariation83=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator83=R4_14C
+ParamVariation84=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator84=R4_14C
+ParamVariation85=ParameterName=Package|VariantValue=0805
+ParamDesignator85=R4_14C
+ParamVariation86=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator86=R4_14C
+ParamVariation87=ParameterName=PCB3D|VariantValue= 
+ParamDesignator87=R4_14C
+ParamVariation88=ParameterName=Pin Info|VariantValue= 
+ParamDesignator88=R4_14C
+ParamVariation89=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator89=R4_14C
+ParamVariation90=ParameterName=Simulation|VariantValue= 
+ParamDesignator90=R4_14C
+ParamVariation91=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator91=R4_14C
+ParamVariation92=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator92=R4_14C
+ParamVariation93=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator93=R4_14C
+ParamVariation94=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator94=R4_14C
+ParamVariation95=ParameterName=Value|VariantValue=0
+ParamDesignator95=R4_14C
+Variation21=Designator=R4_14B|UniqueId=\QOSFQMYH\QQALSJEV\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation96=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator96=R4_14B
+ParamVariation97=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator97=R4_14B
+ParamVariation98=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator98=R4_14B
+ParamVariation99=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator99=R4_14B
+ParamVariation100=ParameterName=Footprint|VariantValue=0603
+ParamDesignator100=R4_14B
+ParamVariation101=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator101=R4_14B
+ParamVariation102=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator102=R4_14B
+ParamVariation103=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator103=R4_14B
+ParamVariation104=ParameterName=Package|VariantValue=0805
+ParamDesignator104=R4_14B
+ParamVariation105=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator105=R4_14B
+ParamVariation106=ParameterName=PCB3D|VariantValue= 
+ParamDesignator106=R4_14B
+ParamVariation107=ParameterName=Pin Info|VariantValue= 
+ParamDesignator107=R4_14B
+ParamVariation108=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator108=R4_14B
+ParamVariation109=ParameterName=Simulation|VariantValue= 
+ParamDesignator109=R4_14B
+ParamVariation110=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator110=R4_14B
+ParamVariation111=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator111=R4_14B
+ParamVariation112=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator112=R4_14B
+ParamVariation113=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator113=R4_14B
+ParamVariation114=ParameterName=Value|VariantValue=0
+ParamDesignator114=R4_14B
+Variation22=Designator=R4_14A|UniqueId=\QOSFQMYH\AJJKEBIH\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation115=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator115=R4_14A
+ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator116=R4_14A
+ParamVariation117=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator117=R4_14A
+ParamVariation118=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator118=R4_14A
+ParamVariation119=ParameterName=Footprint|VariantValue=0603
+ParamDesignator119=R4_14A
+ParamVariation120=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator120=R4_14A
+ParamVariation121=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator121=R4_14A
+ParamVariation122=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator122=R4_14A
+ParamVariation123=ParameterName=Package|VariantValue=0805
+ParamDesignator123=R4_14A
+ParamVariation124=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator124=R4_14A
+ParamVariation125=ParameterName=PCB3D|VariantValue= 
+ParamDesignator125=R4_14A
+ParamVariation126=ParameterName=Pin Info|VariantValue= 
+ParamDesignator126=R4_14A
+ParamVariation127=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator127=R4_14A
+ParamVariation128=ParameterName=Simulation|VariantValue= 
+ParamDesignator128=R4_14A
+ParamVariation129=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator129=R4_14A
+ParamVariation130=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator130=R4_14A
+ParamVariation131=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator131=R4_14A
+ParamVariation132=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator132=R4_14A
+ParamVariation133=ParameterName=Value|VariantValue=0
+ParamDesignator133=R4_14A
+Variation23=Designator=R4_14H|UniqueId=\QOSFQMYH\DWXAARRH\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation134=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator134=R4_14H
+ParamVariation135=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator135=R4_14H
+ParamVariation136=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator136=R4_14H
+ParamVariation137=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator137=R4_14H
+ParamVariation138=ParameterName=Footprint|VariantValue=0603
+ParamDesignator138=R4_14H
+ParamVariation139=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator139=R4_14H
+ParamVariation140=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator140=R4_14H
+ParamVariation141=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator141=R4_14H
+ParamVariation142=ParameterName=Package|VariantValue=0805
+ParamDesignator142=R4_14H
+ParamVariation143=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator143=R4_14H
+ParamVariation144=ParameterName=PCB3D|VariantValue= 
+ParamDesignator144=R4_14H
+ParamVariation145=ParameterName=Pin Info|VariantValue= 
+ParamDesignator145=R4_14H
+ParamVariation146=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator146=R4_14H
+ParamVariation147=ParameterName=Simulation|VariantValue= 
+ParamDesignator147=R4_14H
+ParamVariation148=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator148=R4_14H
+ParamVariation149=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator149=R4_14H
+ParamVariation150=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator150=R4_14H
+ParamVariation151=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator151=R4_14H
+ParamVariation152=ParameterName=Value|VariantValue=0
+ParamDesignator152=R4_14H
+Variation24=Designator=R4_14I|UniqueId=\QOSFQMYH\LQTYFEBQ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation153=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator153=R4_14I
+ParamVariation154=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator154=R4_14I
+ParamVariation155=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator155=R4_14I
+ParamVariation156=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator156=R4_14I
+ParamVariation157=ParameterName=Footprint|VariantValue=0603
+ParamDesignator157=R4_14I
+ParamVariation158=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator158=R4_14I
+ParamVariation159=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator159=R4_14I
+ParamVariation160=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator160=R4_14I
+ParamVariation161=ParameterName=Package|VariantValue=0805
+ParamDesignator161=R4_14I
+ParamVariation162=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator162=R4_14I
+ParamVariation163=ParameterName=PCB3D|VariantValue= 
+ParamDesignator163=R4_14I
+ParamVariation164=ParameterName=Pin Info|VariantValue= 
+ParamDesignator164=R4_14I
+ParamVariation165=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator165=R4_14I
+ParamVariation166=ParameterName=Simulation|VariantValue= 
+ParamDesignator166=R4_14I
+ParamVariation167=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator167=R4_14I
+ParamVariation168=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator168=R4_14I
+ParamVariation169=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator169=R4_14I
+ParamVariation170=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator170=R4_14I
+ParamVariation171=ParameterName=Value|VariantValue=0
+ParamDesignator171=R4_14I
+Variation25=Designator=R4_14J|UniqueId=\QOSFQMYH\FSOMVEPC\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation172=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator172=R4_14J
+ParamVariation173=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator173=R4_14J
+ParamVariation174=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator174=R4_14J
+ParamVariation175=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator175=R4_14J
+ParamVariation176=ParameterName=Footprint|VariantValue=0603
+ParamDesignator176=R4_14J
+ParamVariation177=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator177=R4_14J
+ParamVariation178=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator178=R4_14J
+ParamVariation179=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator179=R4_14J
+ParamVariation180=ParameterName=Package|VariantValue=0805
+ParamDesignator180=R4_14J
+ParamVariation181=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator181=R4_14J
+ParamVariation182=ParameterName=PCB3D|VariantValue= 
+ParamDesignator182=R4_14J
+ParamVariation183=ParameterName=Pin Info|VariantValue= 
+ParamDesignator183=R4_14J
+ParamVariation184=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator184=R4_14J
+ParamVariation185=ParameterName=Simulation|VariantValue= 
+ParamDesignator185=R4_14J
+ParamVariation186=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator186=R4_14J
+ParamVariation187=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator187=R4_14J
+ParamVariation188=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator188=R4_14J
+ParamVariation189=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator189=R4_14J
+ParamVariation190=ParameterName=Value|VariantValue=0
+ParamDesignator190=R4_14J
+Variation26=Designator=R4_14K|UniqueId=\QOSFQMYH\SKGLFWWQ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation191=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator191=R4_14K
+ParamVariation192=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator192=R4_14K
+ParamVariation193=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator193=R4_14K
+ParamVariation194=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator194=R4_14K
+ParamVariation195=ParameterName=Footprint|VariantValue=0603
+ParamDesignator195=R4_14K
+ParamVariation196=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator196=R4_14K
+ParamVariation197=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator197=R4_14K
+ParamVariation198=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator198=R4_14K
+ParamVariation199=ParameterName=Package|VariantValue=0805
+ParamDesignator199=R4_14K
+ParamVariation200=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator200=R4_14K
+ParamVariation201=ParameterName=PCB3D|VariantValue= 
+ParamDesignator201=R4_14K
+ParamVariation202=ParameterName=Pin Info|VariantValue= 
+ParamDesignator202=R4_14K
+ParamVariation203=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator203=R4_14K
+ParamVariation204=ParameterName=Simulation|VariantValue= 
+ParamDesignator204=R4_14K
+ParamVariation205=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator205=R4_14K
+ParamVariation206=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator206=R4_14K
+ParamVariation207=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator207=R4_14K
+ParamVariation208=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator208=R4_14K
+ParamVariation209=ParameterName=Value|VariantValue=0
+ParamDesignator209=R4_14K
+Variation27=Designator=R4_14L|UniqueId=\QOSFQMYH\TLTTEMTW\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation210=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator210=R4_14L
+ParamVariation211=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator211=R4_14L
+ParamVariation212=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator212=R4_14L
+ParamVariation213=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator213=R4_14L
+ParamVariation214=ParameterName=Footprint|VariantValue=0603
+ParamDesignator214=R4_14L
+ParamVariation215=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator215=R4_14L
+ParamVariation216=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator216=R4_14L
+ParamVariation217=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator217=R4_14L
+ParamVariation218=ParameterName=Package|VariantValue=0805
+ParamDesignator218=R4_14L
+ParamVariation219=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator219=R4_14L
+ParamVariation220=ParameterName=PCB3D|VariantValue= 
+ParamDesignator220=R4_14L
+ParamVariation221=ParameterName=Pin Info|VariantValue= 
+ParamDesignator221=R4_14L
+ParamVariation222=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator222=R4_14L
+ParamVariation223=ParameterName=Simulation|VariantValue= 
+ParamDesignator223=R4_14L
+ParamVariation224=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator224=R4_14L
+ParamVariation225=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator225=R4_14L
+ParamVariation226=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator226=R4_14L
+ParamVariation227=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator227=R4_14L
+ParamVariation228=ParameterName=Value|VariantValue=0
+ParamDesignator228=R4_14L
+Variation28=Designator=R4_14M|UniqueId=\QOSFQMYH\GAZUHKRG\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation229=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator229=R4_14M
+ParamVariation230=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator230=R4_14M
+ParamVariation231=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator231=R4_14M
+ParamVariation232=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator232=R4_14M
+ParamVariation233=ParameterName=Footprint|VariantValue=0603
+ParamDesignator233=R4_14M
+ParamVariation234=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator234=R4_14M
+ParamVariation235=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator235=R4_14M
+ParamVariation236=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator236=R4_14M
+ParamVariation237=ParameterName=Package|VariantValue=0805
+ParamDesignator237=R4_14M
+ParamVariation238=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator238=R4_14M
+ParamVariation239=ParameterName=PCB3D|VariantValue= 
+ParamDesignator239=R4_14M
+ParamVariation240=ParameterName=Pin Info|VariantValue= 
+ParamDesignator240=R4_14M
+ParamVariation241=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator241=R4_14M
+ParamVariation242=ParameterName=Simulation|VariantValue= 
+ParamDesignator242=R4_14M
+ParamVariation243=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator243=R4_14M
+ParamVariation244=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator244=R4_14M
+ParamVariation245=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator245=R4_14M
+ParamVariation246=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator246=R4_14M
+ParamVariation247=ParameterName=Value|VariantValue=0
+ParamDesignator247=R4_14M
+Variation29=Designator=R4_14N|UniqueId=\QOSFQMYH\BSWPJMJE\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Owner\Desktop\Thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation248=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator248=R4_14N
+ParamVariation249=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator249=R4_14N
+ParamVariation250=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator250=R4_14N
+ParamVariation251=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator251=R4_14N
+ParamVariation252=ParameterName=Footprint|VariantValue=0603
+ParamDesignator252=R4_14N
+ParamVariation253=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator253=R4_14N
+ParamVariation254=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator254=R4_14N
+ParamVariation255=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator255=R4_14N
+ParamVariation256=ParameterName=Package|VariantValue=0805
+ParamDesignator256=R4_14N
+ParamVariation257=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator257=R4_14N
+ParamVariation258=ParameterName=PCB3D|VariantValue= 
+ParamDesignator258=R4_14N
+ParamVariation259=ParameterName=Pin Info|VariantValue= 
+ParamDesignator259=R4_14N
+ParamVariation260=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator260=R4_14N
+ParamVariation261=ParameterName=Simulation|VariantValue= 
+ParamDesignator261=R4_14N
+ParamVariation262=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator262=R4_14N
+ParamVariation263=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator263=R4_14N
+ParamVariation264=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator264=R4_14N
+ParamVariation265=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator265=R4_14N
+ParamVariation266=ParameterName=Value|VariantValue=0
+ParamDesignator266=R4_14N
+Variation30=Designator=R4_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
+ParamVariation267=ParameterName=Comment|VariantValue=JUMPER
+ParamDesignator267=R4_14O
+ParamVariation268=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator268=R4_14O
+ParamVariation269=ParameterName=Database Table Name|VariantValue=Resistors
+ParamDesignator269=R4_14O
+ParamVariation270=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
+ParamDesignator270=R4_14O
+ParamVariation271=ParameterName=Footprint|VariantValue=0603
+ParamDesignator271=R4_14O
+ParamVariation272=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator272=R4_14O
+ParamVariation273=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
+ParamDesignator273=R4_14O
+ParamVariation274=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
+ParamDesignator274=R4_14O
+ParamVariation275=ParameterName=Package|VariantValue=0805
+ParamDesignator275=R4_14O
+ParamVariation276=ParameterName=Part Number|VariantValue=RES 0 JUMPER
+ParamDesignator276=R4_14O
+ParamVariation277=ParameterName=PCB3D|VariantValue= 
+ParamDesignator277=R4_14O
+ParamVariation278=ParameterName=Pin Info|VariantValue= 
+ParamDesignator278=R4_14O
+ParamVariation279=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator279=R4_14O
+ParamVariation280=ParameterName=Simulation|VariantValue= 
+ParamDesignator280=R4_14O
+ParamVariation281=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator281=R4_14O
+ParamVariation282=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
+ParamDesignator282=R4_14O
+ParamVariation283=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
+ParamDesignator283=R4_14O
+ParamVariation284=ParameterName=Tolerance|VariantValue=N/A
+ParamDesignator284=R4_14O
+ParamVariation285=ParameterName=Value|VariantValue=0
+ParamDesignator285=R4_14O
+Variation31=Designator=R19|UniqueId=\KBRGBZUQ\SOOKJNAK|Kind=1|AlternatePart= 
+Variation32=Designator=R18|UniqueId=\KBRGBZUQ\MXQCGSRK|Kind=1|AlternatePart= 
+Variation33=Designator=R17|UniqueId=\KBRGBZUQ\BCFGQRHB|Kind=1|AlternatePart= 
 ParamVariationCount=285
 
 [GeneratedDocument1]
