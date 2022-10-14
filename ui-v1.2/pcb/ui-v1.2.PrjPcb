@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=project-ui-v1.2.Annotation
+DocumentPath=ui-v1.2.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1734,49 +1734,11 @@ ParamVariation265=ParameterName=Tolerance|VariantValue=N/A
 ParamDesignator265=R4_14N
 ParamVariation266=ParameterName=Value|VariantValue=0
 ParamDesignator266=R4_14N
-Variation30=Designator=R4_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\IELRCICK|Kind=2|AlternatePart=JUMPER|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\klomp\Documents\Extracurricular\thunderbots\Altium_Libraries\libraries-v2.0\Resistor_Library.DbLib/Resistors|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RES 0 JUMPER|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Resistor_Library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603|AltLibLink_IsSameFootprint=False
-ParamVariation267=ParameterName=Comment|VariantValue=JUMPER
-ParamDesignator267=R4_14O
-ParamVariation268=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator268=R4_14O
-ParamVariation269=ParameterName=Database Table Name|VariantValue=Resistors
-ParamDesignator269=R4_14O
-ParamVariation270=ParameterName=Description|VariantValue=RES SMD 0 OHM JUMPER GENERIC 0805
-ParamDesignator270=R4_14O
-ParamVariation271=ParameterName=Footprint|VariantValue=0603
-ParamDesignator271=R4_14O
-ParamVariation272=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator272=R4_14O
-ParamVariation273=ParameterName=Library Reference|VariantValue=RES 0 JUMPER
-ParamDesignator273=R4_14O
-ParamVariation274=ParameterName=Manufacturer Part Number 1|VariantValue=RK73Z1JTTD
-ParamDesignator274=R4_14O
-ParamVariation275=ParameterName=Package|VariantValue=0805
-ParamDesignator275=R4_14O
-ParamVariation276=ParameterName=Part Number|VariantValue=RES 0 JUMPER
-ParamDesignator276=R4_14O
-ParamVariation277=ParameterName=PCB3D|VariantValue= 
-ParamDesignator277=R4_14O
-ParamVariation278=ParameterName=Pin Info|VariantValue= 
-ParamDesignator278=R4_14O
-ParamVariation279=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator279=R4_14O
-ParamVariation280=ParameterName=Simulation|VariantValue= 
-ParamDesignator280=R4_14O
-ParamVariation281=ParameterName=Supplier 1|VariantValue=Digi-Key
-ParamDesignator281=R4_14O
-ParamVariation282=ParameterName=Supplier Part Number 1|VariantValue=2019-RK73Z1JTTDCT-ND
-ParamDesignator282=R4_14O
-ParamVariation283=ParameterName=Supplier URL 1|VariantValue=https://www.digikey.ca/en/products/detail/koa-speer-electronics-inc/RK73Z1JTTD/9845478
-ParamDesignator283=R4_14O
-ParamVariation284=ParameterName=Tolerance|VariantValue=N/A
-ParamDesignator284=R4_14O
-ParamVariation285=ParameterName=Value|VariantValue=0
-ParamDesignator285=R4_14O
+Variation30=Designator=R4_14O|UniqueId=\QOSFQMYH\MHIJZCPZ\IELRCICK|Kind=1|AlternatePart= 
 Variation31=Designator=R19|UniqueId=\KBRGBZUQ\SOOKJNAK|Kind=1|AlternatePart= 
 Variation32=Designator=R18|UniqueId=\KBRGBZUQ\MXQCGSRK|Kind=1|AlternatePart= 
 Variation33=Designator=R17|UniqueId=\KBRGBZUQ\BCFGQRHB|Kind=1|AlternatePart= 
-ParamVariationCount=285
+ParamVariationCount=266
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for project-ui-v1.1\Design Rule Check - ui_layout-v1.html
