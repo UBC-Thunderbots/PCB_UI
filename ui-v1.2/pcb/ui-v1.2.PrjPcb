@@ -1779,6 +1779,10 @@ Variation37=Designator=R9|UniqueId=\VPHJNKHY\ODNBOTWE|Kind=1|AlternatePart=
 Variation38=Designator=R7|UniqueId=\VPHJNKHY\NDQODGLH|Kind=1|AlternatePart= 
 ParamVariationCount=266
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ui-v1.2\Design Rule Check - ui_layout-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
